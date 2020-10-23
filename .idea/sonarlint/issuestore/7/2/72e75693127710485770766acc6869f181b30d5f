@@ -1,0 +1,7 @@
+
+7
+java:S1170
+"!Make this final field static too.(„ÀÃÞ
+o	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜œ–ßÿÿÿÿÿ8ˆÅ‘‚Õ.
+h	java:S116
+"SRename this field "POR_FIJO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÀÃÞ
